@@ -10,8 +10,8 @@ import {
   Button,
 } from '../../theme/components';
 
-const LOGO_ALURA_URL = 'https://fakeimg.pl/94x44';
-const SIDE_IMAGE_URL = 'https://fakeimg.pl/2878x1640';
+const LOGO_ALURA_URL = 'images/alura-logo.svg';
+const SIDE_IMAGE_URL = 'images/alura-cases.png';
 
 function SideImage() {
   return (
